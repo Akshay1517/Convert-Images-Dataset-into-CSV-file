@@ -1,1 +1,3 @@
 # Convert-Images-Dataset-into-CSV-file
+
+In this code you need to change your datasets path and change your images extention like .jpg, .png, .jpeg, etc...
